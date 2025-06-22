@@ -1,0 +1,25 @@
+{
+  "name": "gemini-ai-api-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.6.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "multer": "^2.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
